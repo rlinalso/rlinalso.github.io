@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rlinalso.github.io/sitemap.html.gz
+Sitemap: https://rlinalso.github.io/app/sitemap.html.gz
+Sitemap: https://rlinalso.github.io/assets/sitemap.html.gz
+Sitemap: https://rlinalso.github.io/css/sitemap.html.gz
+Sitemap: https://rlinalso.github.io/includes/sitemap.html.gz
+Sitemap: https://rlinalso.github.io/item/sitemap.html.gz
+Sitemap: https://rlinalso.github.io/src/sitemap.html.gz
